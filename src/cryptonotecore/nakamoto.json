@@ -1,0 +1,25 @@
+{
+  "nodes": [    
+    {
+      "name": "Nakzone_1",
+      "url": "nakzone1.nakzone.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": true
+    },
+    {
+      "name": "Nakzone_2",
+      "url": "nakzone3.nakzone.org",
+      "port": 11898,
+      "ssl": true,
+      "cache": true
+    },
+    {
+      "name": "Nakzone_3",
+      "url": "nakzone3.nakzone.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
